@@ -1,2 +1,2 @@
 # timerunner
-cron like runner that accepts binaries and metadata and what and how often to run in REST endpoint
+cron like application that periodically runs other applicatoins uploaded to it via web endpoint. to be used as a docker container.
